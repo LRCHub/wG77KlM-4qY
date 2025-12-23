@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "はたちのうた",
+  "base_artist": "Yabai T-Shirts Yasan",
+  "createdAt": "2025-12-23T09:54:28.167139Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "はたちのうた",
+      "artist": "ヤバイTシャツ屋さん",
+      "has_synced": false,
+      "path": "select/pl_01_はたちのうた_ヤバイTシャツ屋さん.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "はたちのうた",
+      "artist": "ヤバイTシャツ屋さん",
+      "has_synced": false,
+      "path": "select/pl_02_はたちのうた_ヤバイTシャツ屋さん.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "はたちのうた",
+      "artist": "ヤバイTシャツ屋さん",
+      "has_synced": false,
+      "path": "select/pl_03_はたちのうた_ヤバイTシャツ屋さん.txt"
+    }
+  ]
+}
